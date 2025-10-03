@@ -1,5 +1,5 @@
 # COMP-211-Git-Activity
 
-Hello World 
-
+Hello World
 You smell like pee pee
+Poop
